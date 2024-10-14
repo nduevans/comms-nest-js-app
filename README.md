@@ -6,7 +6,7 @@ This is a sample project build with NESTJS to help a beginner understand the str
 ### controllers
 ### providers
 ### DTO's
-### LifeCycle example
+### LifeCycle examples
 ### Pipes
 ### Jest Tests
 
